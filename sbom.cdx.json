@@ -1,0 +1,39 @@
+{
+ "bomFormat": "CycloneDX",
+ "specVersion": "1.5",
+ "serialNumber": "urn:uuid:d57eaaf0-b716-5b14-bc83-6aa68db72ab8",
+ "version": 1,
+ "metadata": {
+  "timestamp": "2026-10-06T17:09:38Z",
+  "component": {
+   "type": "application",
+   "name": "COGAT",
+   "version": "83b357604d34",
+   "bom-ref": "pkg:generic/anticloud/COGAT@83b357604d34",
+   "purl": "pkg:generic/anticloud/COGAT@83b357604d34",
+   "licenses": [
+    {
+     "license": {
+      "id": "MIT"
+     }
+    }
+   ]
+  },
+  "properties": [
+   {
+    "name": "anticloud:source-commit",
+    "value": "null"
+   },
+   {
+    "name": "anticloud:source-url",
+    "value": "https://github.com/the-anticloud/OPENMRS_CORE.git"
+   },
+   {
+    "name": "anticloud:tier",
+    "value": "tier-agent"
+   }
+  ]
+ },
+ "components": [],
+ "sha_unverified": true
+}
